@@ -4,9 +4,9 @@
    :caption: keyes docs
 
    README.md
-   docs/
    docs/Arduino IDE 教程.md
-
+   docs/win-Pico.md
+   docs/mac-Pico.md
 
 
 
