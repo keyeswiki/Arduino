@@ -1,4 +1,4 @@
-# Arduino环境下载及驱动安装
+# Arduino开发板环境配置和驱动安装
 
 **什么是 ARDUINO？**
 
