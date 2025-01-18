@@ -1,4 +1,4 @@
-# **树莓派Pico 板**
+# **树莓派Pico板安装驱动**
 
 <span style="font-size: 22px;"><span style="color: rgb(255, 76, 65); font-size: 22px;">注意：Arduino IDE 软件的下载，安装与设置方法和上面的一样，就不重复说明了。</span></span>
 

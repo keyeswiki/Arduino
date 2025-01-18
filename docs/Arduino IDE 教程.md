@@ -1,4 +1,4 @@
-# Arduino
+# Arduino环境下载及驱动安装
 
 **什么是 ARDUINO？**
 
@@ -8,9 +8,9 @@ Arduino是一个基于易于使用的硬件和软件的开源电子平台，适�
 
 您可以通过用Arduino编程语言编写代码并使用Arduino开发环境.
 
-# **1. 下载arduino IDE**
+## **1. 下载arduino IDE**
 
-## **A. Windows系统**
+ **A. Windows系统**
 
 Arduino IDE官网下载: [https://www.arduino.cc/](https://www.arduino.cc/)
 
@@ -28,7 +28,7 @@ WINDOWS可选两种下载方式：直接下载应用（无需手动安装）或�
 
 点击 **JUST DOWNLOAD** 即可。
 
-## **B. Mac系统**
+ **B. Mac系统**
 
 请参考Windows:
 
@@ -36,7 +36,7 @@ WINDOWS可选两种下载方式：直接下载应用（无需手动安装）或�
 
 下载完成后双击打开应用，根据提示安装。
 
-## **C.安装**
+ **C.安装**
 
 1.保存.exe文件到硬盘驱动并执行。
 
@@ -58,7 +58,7 @@ WINDOWS可选两种下载方式：直接下载应用（无需手动安装）或�
 
 ![图片不存在](./media/b956ef7c308fcb0f7dc7e94bbb964f17.png)
 
-# **2. 驱动安装**
+## **2. 驱动安装**
 
 开发板需要驱动启动，否则通信口无法使用。
 
@@ -79,7 +79,7 @@ WINDOWS可选两种下载方式：直接下载应用（无需手动安装）或�
 | | |![图片不存在](./media/0d38a15a94f8832b98debd4e8cfbc4ae.png)  | [CH340-WINDOWS](windowsCH340.md)   |  [CH340-MAC](MacCH340.md)  |
 | | |![图片不存在](./media/47ff6758c5daa7b1e524a1c306f03aad.png) | [CP2102-WINDOWS](windowsCP2102.md) | [CP2102-MAC](MacCP2102.md) |
 
-# **3. Arduino IDE 设置**
+## **3. Arduino IDE 设置**
 
 点击![图片不存在](./media/56fd87ba844f0d367e09941d0805d656.png)启用Arduino IDE.
 
@@ -102,7 +102,7 @@ WINDOWS可选两种下载方式：直接下载应用（无需手动安装）或�
 15. 编辑项目区域
 16. IDE输出：报告错误或成功上传，显示串口监视器数据
 
-# **4. Arduino IDE上传代码**
+## **4. Arduino IDE上传代码**
 
 **'/'：使用Keystudio Plus UNO作为教程的示例**
 
@@ -122,7 +122,7 @@ WINDOWS可选两种下载方式：直接下载应用（无需手动安装）或�
 | raspberry pi pico             |    [Win Pico Tutorial](win-Pico)    |    [Mac Pico Tutorial](mac-Pico)    |
 
 
-# **5. 导入库**
+## **5. 导入库**
 
 <span style="color: rgb(255, 76, 65);">**注意：不同的开发板导入库的方法都类似，都可以参照下面的方法。**</span>
 
@@ -131,7 +131,7 @@ WINDOWS可选两种下载方式：直接下载应用（无需手动安装）或�
 
 首先，需要相应的Arduino库文件。
 
-## **A. 什么是库文件?**
+ **A. 什么是库文件?**
 
 库是一个代码集合，以便轻松地连接传感器、显示器、模块等。
 
@@ -143,7 +143,7 @@ WINDOWS可选两种下载方式：直接下载应用（无需手动安装）或�
 
 ![图片不存在](./media/e73615b6b4cd03607eafcf95cfc51f57.png)
 
-## **B. 怎样导入库?**
+ **B. 怎样导入库?**
 
 <p style="color:red;">以"LiquidCrystal_I2C"为例。<p>
 
@@ -167,13 +167,13 @@ WINDOWS可选两种下载方式：直接下载应用（无需手动安装）或�
 其他资源，请关注官网：[https://www.keyestudio.com/](https://www.keyestudio.com/)
 
 
-# 其它主板
+## **6.其它主板**
 
-## 树莓派Pico
+树莓派Pico
 [WINDOWS](%E6%A0%91%E8%8E%93%E6%B4%BEPico.md#a-windows)
 [MAC](%E6%A0%91%E8%8E%93%E6%B4%BEPico.md#b-mac)
 
-## ESP32主板
+ESP32主板
 [WINDOWS](ESP32%E4%B8%BB%E6%9D%BF.md#a-windows)
 [MAC](ESP32%E4%B8%BB%E6%9D%BF.md#b-mac)
 
