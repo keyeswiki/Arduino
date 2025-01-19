@@ -46,16 +46,16 @@
 
 ```c
 /*
-  keyestudio 
-  打印 “Hello Keyestudio!”
-  http://www.keyestudio.com
+  keyes 
+  打印 “Hello Keyes!”
+  http://www.keyes_robot.com
 */
 void setup() { 
     Serial.begin(9600);  //设置波特率为9600
 }
 
 void loop() { 
-    Serial.println("Hello Keyestudio!");  //打印信息
+    Serial.println("Hello Keyes!");  //打印信息
  	delay(1000);  //延时1s
 }
 ```
@@ -64,9 +64,9 @@ void loop() {
 
 ![图片不存在](./media/ae56f65945157c0667f54fd4317628c9.png)
 
-上传时如果显示 “————……..————……..”，请长按开发板上的启动按钮（仅适用于Keyestudio ESP32开发板 ，其中不包含Keyestudio Plus ESP32）。
+上传时如果显示 “————……..————……..”，请长按开发板上的启动按钮（仅适用于Keyes ESP32开发板 ，其中不包含Keyes Plus ESP32）。
 
-点击 ![图片不存在](./media/3a7eab031e133625ebf71f4a0c573912.png) 设置波特率为9600， 串口打印 “Hello Keyestudio!”。
+点击 ![图片不存在](./media/3a7eab031e133625ebf71f4a0c573912.png) 设置波特率为9600， 串口打印 “Hello Keyes!”。
 
 ![图片不存在](./media/ca858b6e425a6752b8cdf6422a8271c4.png)
 

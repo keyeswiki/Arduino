@@ -6,16 +6,16 @@
 
 ```c
 /*
-  keyestudio 
-  打印 “Hello Keyestudio!”
-  http://www.keyestudio.com
+  keyes 
+  打印 “Hello keyes!”
+  http://www.keyes_robot.com
 */
 void setup() { 
     Serial.begin(9600);  //设置波特率为9600
 }
 
 void loop() { 
-    Serial.println("Hello Keyestudio!");  //打印信息
+    Serial.println("Hello keyes!");  //打印信息
  	delay(1000);  //延时1s
 }
 ```
@@ -44,7 +44,7 @@ void loop() {
 
 ![图片不存在](./media/501ae9e2281a2e82e3b4f9df88ea43a7.png)
 
-点击 ![图片不存在](./media/3a7eab031e133625ebf71f4a0c573912.png)设置波特率为9600，串口打印“Hello Keyestudio!” 。
+点击 ![图片不存在](./media/3a7eab031e133625ebf71f4a0c573912.png)设置波特率为9600，串口打印“Hello keyes!” 。
 
 ![图片不存在](./media/6a5c07fc4a5621b7b338c0a2417ab6a3.png)
 

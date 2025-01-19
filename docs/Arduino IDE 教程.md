@@ -113,12 +113,12 @@ WINDOWS可选两种下载方式：直接下载应用（无需手动安装）或�
 
 | 开发板                        |               windows               |                 MAC                 |
 | :---------------------------- | :---------------------------------: | :---------------------------------: |
-| Keyestudio Plus UNO           | [Win Plus UNO Tutorial](win-UNO.md) | [Mac Plus UNO Tutorial](mac-UNO.md) |
-| Keyestudio NANO               |                  /                  |                  /                  |
-| Keyestudio MEGA 2560          |                  /                  |                  /                  |
-| Keyestudio Leonardo           |                  /                  |                  /                  |
-| Keyestudio Micro pro\por Mini |                  /                  |                  /                  |
-| Keyestudio ESP32\ESP32 Plus   |   [Win ESP32 Tutorial](win-ESP32)   |   [Mac ESP32 Tutorial](mac-ESP32)   |
+| Keyes Plus UNO           | [Win Plus UNO Tutorial](win-UNO.md) | [Mac Plus UNO Tutorial](mac-UNO.md) |
+| Keyes NANO               |                  /                  |                  /                  |
+| Keyes MEGA 2560          |                  /                  |                  /                  |
+| Keyes Leonardo           |                  /                  |                  /                  |
+| Keyes Micro pro\por Mini |                  /                  |                  /                  |
+| Keyes ESP32\ESP32 Plus   |   [Win ESP32 Tutorial](win-ESP32)   |   [Mac ESP32 Tutorial](mac-ESP32)   |
 | raspberry pi pico             |    [Win Pico Tutorial](win-Pico)    |    [Mac Pico Tutorial](mac-Pico)    |
 
 
@@ -164,7 +164,7 @@ WINDOWS可选两种下载方式：直接下载应用（无需手动安装）或�
 
 导入库的方法对于两种操作系统来说大同小异。
 
-其他资源，请关注官网：[https://www.keyestudio.com/](https://www.keyestudio.com/)
+其他资源，请关注官网：[https://www.keyes_robot.com/](https://www.keyes_robot.com/)
 
 
 ## **6.其它主板**
