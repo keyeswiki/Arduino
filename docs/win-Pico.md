@@ -2,29 +2,29 @@
 
 通常情况下，我们无法在工具中的开发板中找到Pico板。因为我们还没有在Arduino IDE上安装这个板。
 
-![图片不存在](./media/2c69861be28d9585be93583b6958b3de.png)
+![](./media/2c69861be28d9585be93583b6958b3de.png)
 
 安装步骤：
 
-启动Arduino IDE， 进入![图片不存在](./media/25204e75256579ce37b2e10029bbb246.png):
+启动Arduino IDE， 进入![](./media/25204e75256579ce37b2e10029bbb246.png):
 
-![图片不存在](./media/9acdd485ed0cf70b353f6485d486f5e7.png)
+![](./media/9acdd485ed0cf70b353f6485d486f5e7.png)
 
 搜索**Pico**并安装 **Arduino Mbed OS RP2040 Boards**. 
 
-![图片不存在](./media/32deca032f5f16d3349838716979e47a.png)
+![](./media/32deca032f5f16d3349838716979e47a.png)
 
 出现安全页面，点击安装即可。
 
-![图片不存在](./media/317747bfe6504280cd1fa76dac472d3f.png)
+![](./media/317747bfe6504280cd1fa76dac472d3f.png)
 
 安装完成会有弹出窗口提示
 
-![图片不存在](./media/f578e766241fd4249c9db0100db1fc31.png)
+![](./media/f578e766241fd4249c9db0100db1fc31.png)
 
 选择pico板。
 
-![图片不存在](./media/5aec67ba875b9ead3a106eac00dd2c24.png)
+![](./media/5aec67ba875b9ead3a106eac00dd2c24.png)
 
 重要步骤：上传与arduino兼容的Pico固件， 否则arduino IDE不能在Pico板上刻录程序。
 
@@ -32,29 +32,29 @@
 
 (1) 断开Raspberry Pi Pico与计算机的连接。按住树莓派Pico上的白色按钮(BOOTSEL)，直到板连接到PC。(一定要记得按住按钮，直到连接完成，否则固件下载失败。)
 
-![图片不存在](./media/03d4f75c5de184fa2b9ee153f25b83ff.jpg) 
+![](./media/03d4f75c5de184fa2b9ee153f25b83ff.jpg) 
 
 （2）启动Arduino IDE， 点击文件，示例，01.Basics，Blink
 
-![图片不存在](./media/fdccbfa62236fe55246dec2f9dcb3d8f.png) 
+![](./media/fdccbfa62236fe55246dec2f9dcb3d8f.png) 
 
 （3）点击工具，开发板，选择**Arduino Mbed OS RP2040 Boards** 中的 **Raspberry Pi Pico**.
 
-![图片不存在](./media/b7c81fd76ffae7141378ca4f5afa7b80.png) 
+![](./media/b7c81fd76ffae7141378ca4f5afa7b80.png) 
 
-（4）上传 **Blink** 到Pico板并点击 ![图片不存在](./media/83d2ea9b45a89ad6088dcd3318b85fc8.png)编译。
+（4）上传 **Blink** 到Pico板并点击 ![](./media/83d2ea9b45a89ad6088dcd3318b85fc8.png)编译。
 
-![图片不存在](./media/5b241fd0415242ba21b854c79465cc99.png) 
+![](./media/5b241fd0415242ba21b854c79465cc99.png) 
 
 板上指示灯开始闪烁，间隔为一秒。
 
-![图片不存在](./media/124ad033d76beea4110fba100fb84601.png)
+![](./media/124ad033d76beea4110fba100fb84601.png)
 
 点击工具，串口，选择 **COMx(Raspberry Pi Pico)**.
 
 COMx：每台电脑都会有所不同，此处我们的串口编号是COM25.
 
-![图片不存在](./media/2d27f9a1f28ecbfe4c2dc0a550d02726.png)
+![](./media/2d27f9a1f28ecbfe4c2dc0a550d02726.png)
 
 **注意**
 

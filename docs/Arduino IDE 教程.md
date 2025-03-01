@@ -16,15 +16,15 @@ Arduino IDE官网下载: [https://www.arduino.cc/](https://www.arduino.cc/)
 
 进入官网点击**SOFTWARE**: 
 
-![图片不存在](./media/35689c0bc68d7edba8c627bd3199eef6.png)
+![](./media/35689c0bc68d7edba8c627bd3199eef6.png)
 
 下载适配您电脑的版本即可。
 
-![图片不存在](./media/77e7c042126b8eeea11c791f56b5b4b2.png)
+![](./media/77e7c042126b8eeea11c791f56b5b4b2.png)
 
 WINDOWS可选两种下载方式：直接下载应用（无需手动安装）或者下载压缩包文件（手动安装驱动）。 
 
-![图片不存在](./media/8cab9c123f890c12acecb2b69da33fa9.png)
+![](./media/8cab9c123f890c12acecb2b69da33fa9.png)
 
 点击 **JUST DOWNLOAD** 即可。
 
@@ -32,7 +32,7 @@ WINDOWS可选两种下载方式：直接下载应用（无需手动安装）或�
 
 请参考Windows:
 
-![图片不存在](./media/7d168787a38135d10224dcdf317de4dc.png)
+![](./media/7d168787a38135d10224dcdf317de4dc.png)
 
 下载完成后双击打开应用，根据提示安装。
 
@@ -40,23 +40,23 @@ WINDOWS可选两种下载方式：直接下载应用（无需手动安装）或�
 
 1.保存.exe文件到硬盘驱动并执行。
 
-![图片不存在](./media/8f8dc05a74e88f80404c221feb5be436.png)
+![](./media/8f8dc05a74e88f80404c221feb5be436.png)
 
 2.阅读许可协议License Agreement，点击同意。
 
-![图片不存在](./media/56e65f892f7e0ec8750e4a34fbe30639.png)
+![](./media/56e65f892f7e0ec8750e4a34fbe30639.png)
 
 3.选择安装选项。
 
-![图片不存在](./media/c027cb419f67d478118b5714f5ed79a6.png)
+![](./media/c027cb419f67d478118b5714f5ed79a6.png)
 
 4.选择安装位置。
 
-![图片不存在](./media/e7e883fa1ed4d08ed5971c025696abca.png)
+![](./media/e7e883fa1ed4d08ed5971c025696abca.png)
 
 5.点击完成并运行。
 
-![图片不存在](./media/b956ef7c308fcb0f7dc7e94bbb964f17.png)
+![](./media/b956ef7c308fcb0f7dc7e94bbb964f17.png)
 
 ## **2. 驱动安装**
 
@@ -68,22 +68,22 @@ WINDOWS可选两种下载方式：直接下载应用（无需手动安装）或�
 
 | Sku | 开发板 |图片                      |           Windows           |         MAC         |
 |:---: | :---------------:  | :------------------:    | :--------------------------------: | :------------------------: |
-| | |![图片不存在](./media/7d0b506b49c64603a88fe3e435471416.png)   | [CP2102-WINDOWS](windowsCP2102.md) | [CP2102-MAC](MacCP2102.md) |
-| | |![图片不存在](./media/eaa1b19bfcaca2517a95e05ded42d35c.png)   | [CP2102-WINDOWS](windowsCP2102.md) | [CP2102-MAC](MacCP2102.md) |
-| | |![图片不存在](./media/1aca98d5c71572a604e19486bd0b0f30.png)  | [CP2102-WINDOWS](windowsCP2102.md) | [CP2102-MAC](MacCP2102.md) |
-| | |![图片不存在](./media/ae5563865993ea67fcd7fcdf24da5111.png)  | [CP2102-WINDOWS](windowsCP2102.md) | [CP2102-MAC](MacCP2102.md) |
-| | |![图片不存在](./media/86c795bcea492965e34ee0cdaaf50e29.png)| [CP2102-WINDOWS](windowsCP2102.md) | [CP2102-MAC](MacCP2102.md) |
-| | |![图片不存在](./media/4e3c89e2d2f3857713b158dee653d15e.png)  | [CH340-WINDOWS](windowsCH340.md)   |  [CH340-MAC](MacCH340.md)  |
-| | |![图片不存在](./media/673abb3eab021c25e5f25278a56c090f.png) | [CH340-WINDOWS](windowsCH340.md)   |  [CH340-MAC](MacCH340.md)  |
-| | |![图片不存在](./media/844294c4c8ececb90208e002a168053f.png) | [CP2102-WINDOWS](windowsCP2102.md) | [CP2102-MAC](MacCP2102.md) |
-| | |![图片不存在](./media/0d38a15a94f8832b98debd4e8cfbc4ae.png)  | [CH340-WINDOWS](windowsCH340.md)   |  [CH340-MAC](MacCH340.md)  |
-| | |![图片不存在](./media/47ff6758c5daa7b1e524a1c306f03aad.png) | [CP2102-WINDOWS](windowsCP2102.md) | [CP2102-MAC](MacCP2102.md) |
+| | |![](./media/7d0b506b49c64603a88fe3e435471416.png)   | [CP2102-WINDOWS](windowsCP2102.md) | [CP2102-MAC](MacCP2102.md) |
+| | |![](./media/eaa1b19bfcaca2517a95e05ded42d35c.png)   | [CP2102-WINDOWS](windowsCP2102.md) | [CP2102-MAC](MacCP2102.md) |
+| | |![](./media/1aca98d5c71572a604e19486bd0b0f30.png)  | [CP2102-WINDOWS](windowsCP2102.md) | [CP2102-MAC](MacCP2102.md) |
+| | |![](./media/ae5563865993ea67fcd7fcdf24da5111.png)  | [CP2102-WINDOWS](windowsCP2102.md) | [CP2102-MAC](MacCP2102.md) |
+| | |![](./media/86c795bcea492965e34ee0cdaaf50e29.png)| [CP2102-WINDOWS](windowsCP2102.md) | [CP2102-MAC](MacCP2102.md) |
+| | |![](./media/4e3c89e2d2f3857713b158dee653d15e.png)  | [CH340-WINDOWS](windowsCH340.md)   |  [CH340-MAC](MacCH340.md)  |
+| | |![](./media/673abb3eab021c25e5f25278a56c090f.png) | [CH340-WINDOWS](windowsCH340.md)   |  [CH340-MAC](MacCH340.md)  |
+| | |![](./media/844294c4c8ececb90208e002a168053f.png) | [CP2102-WINDOWS](windowsCP2102.md) | [CP2102-MAC](MacCP2102.md) |
+| | |![](./media/0d38a15a94f8832b98debd4e8cfbc4ae.png)  | [CH340-WINDOWS](windowsCH340.md)   |  [CH340-MAC](MacCH340.md)  |
+| | |![](./media/47ff6758c5daa7b1e524a1c306f03aad.png) | [CP2102-WINDOWS](windowsCP2102.md) | [CP2102-MAC](MacCP2102.md) |
 
 ## **3. Arduino IDE 设置**
 
-点击![图片不存在](./media/56fd87ba844f0d367e09941d0805d656.png)启用Arduino IDE.
+点击![](./media/56fd87ba844f0d367e09941d0805d656.png)启用Arduino IDE.
 
-![图片不存在](./media/661b691e840407428760cc4f29e80d92.png)
+![](./media/661b691e840407428760cc4f29e80d92.png)
 
 1. 文件：新建项目，打开，关闭，保存，示例，另存为，首选项，高级设置...
 2. 编辑：复制 ，剪切，粘贴，自动格式化，放大字体，减小字号...
@@ -141,7 +141,7 @@ WINDOWS可选两种下载方式：直接下载应用（无需手动安装）或�
 
 如果在编译或上传代码时出现“No such file or directory”错误，则表示库文件缺失。如下图所示，由于缺少“LiquidCrystal_I2C”库文件，上传LCD1602模块代码时发生错误。
 
-![图片不存在](./media/e73615b6b4cd03607eafcf95cfc51f57.png)
+![](./media/e73615b6b4cd03607eafcf95cfc51f57.png)
 
  **B. 怎样导入库?**
 
@@ -150,17 +150,17 @@ WINDOWS可选两种下载方式：直接下载应用（无需手动安装）或�
 进入项目，导入库，添加zip库。
 
 
-![图片不存在](./media/d48925cbd6e9e07f3686e09f984a04ec.png)
+![](./media/d48925cbd6e9e07f3686e09f984a04ec.png)
 
 找到需要导入的库文件，上传并等待安装成功。
 
-![图片不存在](./media/3a2981c7f01309d30f336b8f6b026197.png)
+![](./media/3a2981c7f01309d30f336b8f6b026197.png)
 
-![图片不存在](./media/50b64da1a3fb78e9f4f2bcdbe45de679.png)
+![](./media/50b64da1a3fb78e9f4f2bcdbe45de679.png)
 
 **动图示例**
 
-![图片不存在](./media/29d25a2531c0ef0c229259fe72697495.gif)
+![](./media/29d25a2531c0ef0c229259fe72697495.gif)
 
 导入库的方法对于两种操作系统来说大同小异。
 

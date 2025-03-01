@@ -20,11 +20,11 @@ void loop() {
 }
 ```
 
-![图片不存在](./media/8832e91f90a1dbf7b8e0fe976b824841.png)
+![](./media/8832e91f90a1dbf7b8e0fe976b824841.png)
 
 点击工具，开发板，选择Arduino AVR Boards中的Arduino Uno。
 
-![图片不存在](./media/e72433f6ef13c4a249d475935d0e74bf.png)
+![](./media/e72433f6ef13c4a249d475935d0e74bf.png)
 
 选择通信口。
 
@@ -32,19 +32,19 @@ void loop() {
 
 点击工具，端口，选择“/dev/cu.usbderial-0001”.
 
-![图片不存在](./media/f2fbc538e472b5af1a8bbb9427bbe14a.png)
+![](./media/f2fbc538e472b5af1a8bbb9427bbe14a.png)
 
 安装成功后将会收到提示。
 
-![图片不存在](./media/7f507d8c296eb91632d688cc5d966d31.png)
+![](./media/7f507d8c296eb91632d688cc5d966d31.png)
 
-点击 ![图片不存在](./media/d850ef08c2fd6b92e762108775094160.png)编译。 
+点击 ![](./media/d850ef08c2fd6b92e762108775094160.png)编译。 
 
-![图片不存在](./media/33650da3a87b451a2f130aa6040f2c91.png)
+![](./media/33650da3a87b451a2f130aa6040f2c91.png)
 
-点击 ![图片不存在](./media/3a7eab031e133625ebf71f4a0c573912.png)设置波特率为9600，串口打印“Hello keyes!” 。
+点击 ![](./media/3a7eab031e133625ebf71f4a0c573912.png)设置波特率为9600，串口打印“Hello keyes!” 。
 
-![图片不存在](./media/5996344605b75e9dafc50cdc26e54bad.png)
+![](./media/5996344605b75e9dafc50cdc26e54bad.png)
 
 1. 切换自动滚动：设置是否跟随打印。
 2. 显示时间戳：设置是否显示打印时间。
