@@ -167,7 +167,7 @@ WINDOWS可选两种下载方式：直接下载应用（无需手动安装）或�
 其他资源，请关注官网：[https://www.keyes_robot.com/](https://www.keyes_robot.com/)
 
 
-## **6.其它主板**
+## **6. 其它主板**
 
 树莓派Pico
 [WINDOWS](%E6%A0%91%E8%8E%93%E6%B4%BEPico.md#a-windows)
